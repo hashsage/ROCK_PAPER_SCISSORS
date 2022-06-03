@@ -43,7 +43,3 @@ while True:
             break
     elif (user_action != "R" or user_action != "P" or user_action != "S") :
     	print("Invalid input! please try again")
-
- #   play_again = input("Play again? (y/n): ")
-  #  if play_again.lower() != "y":
-  #      break
